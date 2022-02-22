@@ -1,6 +1,6 @@
 # Test Automation
 
-This project was implemented using selenium with mocha and chai
+This project was set up using selenium with mocha and chai
 
 ## Available Scripts
 
