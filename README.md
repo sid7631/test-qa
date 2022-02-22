@@ -25,4 +25,4 @@ This will run the script `mocha test --reporter mochawesome --reporter-options a
 ## Steps to run API Test
 Perform the below steps to run the API test.\
 
-### Import API_Test.postman_collection.json in postman and run the collection
+#### Import `API_Test.postman_collection.json` file in postman and run the collection
