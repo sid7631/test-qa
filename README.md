@@ -20,3 +20,9 @@ This will install the required packages from package.json inside node_modules fo
 
 ### `npm test`
 This will run the script `mocha test --reporter mochawesome --reporter-options autoOpen=true` 
+
+
+## Steps to run API Test
+Perform the below steps to run the API test.\
+
+### Import API_Test.postman_collection.json in postman and run the collection
